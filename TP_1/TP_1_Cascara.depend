@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1491536124 source:f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1491538208 source:f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491536192 f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1491606794 source:i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1491608314 source:i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1491606796 i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503618258 source:e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503619866 source:e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Funciones.h"
+	"Mensajes.h"
+	"OperacionesMatematicas.h"
+	"Validaciones.h"
+
+1503620388 e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503617858 source:e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503619866 source:e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503618778 source:e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\operacionesmatematicas.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 e:\lab i\tps\tp 1\tp_1_cascara\tp_1_cascara\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503618930 source:c:\users\alumno\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503617858 source:c:\users\alumno\desktop\tp_1_cascara\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503619866 source:c:\users\alumno\desktop\tp_1_cascara\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503618778 source:c:\users\alumno\desktop\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620520 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"mensajes.h"
+	"operacionesmatematicas.h"
+	"validaciones.h"
+
+1503620388 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 c:\users\alumno\desktop\tp_1_cascara\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 c:\users\alumno\desktop\tp_1_cascara\operacionesmatematicas.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 c:\users\alumno\desktop\tp_1_cascara\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504814538 source:e:\lab i\tps\tp 1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504813166 source:e:\lab i\tps\tp 1\tp_1_cascara\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504812200 source:e:\lab i\tps\tp 1\tp_1_cascara\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504826808 source:e:\lab i\tps\tp 1\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504823342 source:e:\lab i\tps\tp 1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"mensajes.h"
+	"operacionesmatematicas.h"
+	"validaciones.h"
+
+1504813820 e:\lab i\tps\tp 1\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 e:\lab i\tps\tp 1\tp_1_cascara\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 e:\lab i\tps\tp 1\tp_1_cascara\operacionesmatematicas.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504799066 e:\lab i\tps\tp 1\tp_1_cascara\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504813166 source:g:\lab i\tps\tp 1\tp_1_cascara\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504903652 source:g:\lab i\tps\tp 1\tp_1_cascara\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504900624 source:g:\lab i\tps\tp 1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504903496 source:g:\lab i\tps\tp 1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"mensajes.h"
+	"operacionesmatematicas.h"
+	"validaciones.h"
+
+1504813820 g:\lab i\tps\tp 1\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 g:\lab i\tps\tp 1\tp_1_cascara\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1503620388 g:\lab i\tps\tp 1\tp_1_cascara\operacionesmatematicas.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504799066 g:\lab i\tps\tp 1\tp_1_cascara\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504903496 source:g:\lab i\tps\tp 1\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
